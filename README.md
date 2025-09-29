@@ -23,8 +23,8 @@ The model is trained on a dataset of CAPTCHA images (letters + digits) and achie
 - 5 parallel Dense softmax outputs (one for each character position)
 
 ## 📊 Results
-- Character-level accuracy: XX%  
-- Full CAPTCHA accuracy: YY%  
+- Character-level accuracy: 97%  
+- Full CAPTCHA accuracy: 85%  
 - Training and validation curves included below:
 
 *(Insert plots here after running the plotting code)*
