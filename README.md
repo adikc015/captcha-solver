@@ -28,6 +28,9 @@ The model is trained on a dataset of CAPTCHA images (letters + digits) and achie
 - Training and validation curves included below:
 
 *(Insert plots here after running the plotting code)*
+Example prediction:  
+![Sample CAPTCHA](samples/samples/npxb7.png) 
+Predicted: **npxb7**
 
 ## 💻 Usage
 1. Clone repo:
