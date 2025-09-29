@@ -27,8 +27,8 @@ The model is trained on a dataset of CAPTCHA images (letters + digits) and achie
 - Full CAPTCHA accuracy: 85%  
 - Training and validation curves included below:
 
-Example prediction:  
-![Sample CAPTCHA](samples/samples/npxb7.png) 
+Example prediction:<br>
+![Sample CAPTCHA](samples/samples/npxb7.png)<br>
 Predicted: **npxb7**
 
 ## 💻 Usage
