@@ -1,6 +1,3 @@
-# captcha-solver
-Deep Learning model to solve 5-character alphanumeric CAPTCHAs using CNNs.
-
 # CAPTCHA Solver using CNNs
 
 ## 📌 Overview
