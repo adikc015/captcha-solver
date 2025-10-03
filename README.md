@@ -28,6 +28,7 @@ The model is trained on a dataset of CAPTCHA images (letters + digits) and achie
 - Training and validation curves included below:
    <p align="center">
      <img src="samples/Loss Curve.png" alt="Loss Curve" width="300"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;
      <img src="samples/Accuracy Curve.png" alt="Accuracy Curve" width="300"/>
    </p>
 Example prediction:<br>
