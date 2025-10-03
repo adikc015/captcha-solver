@@ -26,19 +26,9 @@ The model is trained on a dataset of CAPTCHA images (letters + digits) and achie
 - Character-level accuracy: 97%  
 - Full CAPTCHA accuracy: 85%  
 - Training and validation curves included below:
-
+   ![Loss Curve](samples/Loss Curve.png)
+   ![Accuracy Curve](samples/Accuracy Curve.png)<br>
 Example prediction:<br>
 ![Sample CAPTCHA](samples/samples/npxb7.png)<br>
 Predicted: **npxb7**
 
-## 💻 Usage
-1. Clone repo:
-   ```bash
-   git clone https://github.com/yourusername/captcha-solver.git
-   cd captcha-solver
-   ```
-   
-2. Install requirements:
-   ```bash
-   pip install -r requirements.txt
-   ```
