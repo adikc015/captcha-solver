@@ -25,7 +25,7 @@ The model is trained on a dataset of CAPTCHA images (letters + digits) and achie
 ## 📊 Results
 - Character-level accuracy: 97%  
 - Full CAPTCHA accuracy: 85%  
-- Training and validation curves included below:
+- Loss and Accuracy curves included below:
    <p align="center">
      <img src="samples/Loss Curve.png" alt="Loss Curve" width="300"/>
       &nbsp;&nbsp;&nbsp;&nbsp;
