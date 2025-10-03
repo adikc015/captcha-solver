@@ -26,8 +26,8 @@ The model is trained on a dataset of CAPTCHA images (letters + digits) and achie
 - Character-level accuracy: 97%  
 - Full CAPTCHA accuracy: 85%  
 - Training and validation curves included below:
-   ![Loss Curve](samples/Loss%20Curve.png)
-   ![Accuracy Curve](samples/Accuracy%20Curve.png)<br>
+   <img src="samples/Loss Curve.png" alt="Loss Curve" width="400"/>  
+   <img src="samples/Accuracy Curve.png" alt="Accuracy Curve" width="400"/><br>  
 Example prediction:<br>
 ![Sample CAPTCHA](samples/samples/npxb7.png)<br>
 Predicted: **npxb7**
